@@ -1,5 +1,5 @@
 # routine-routines
-A repo for keeping track of problems @merchantMarkMurtagh and I complete on our challenge-a-day...  ...challenge! 🤖😄
+A repo for keeping track of problems @merchantMarkMurtagh and I complete on our challenge-a-day...  ...challenge!
 
 ## Problems
 
