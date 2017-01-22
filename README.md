@@ -9,7 +9,9 @@ Date   |Track                 |Problem Name                             |Difficu
 19/1/17|Algorithms            |[Implementation 0-6][2]                  |Easy         |70      | 2.00 |                        |
 20/1/17|Algorithms            |[Sorting 0-3][3]                         |Easy         |120     | 0.20 |                        |
 21/1/17|Algorithms            |[Sorting 4-13][3]                        |Easy-Advanced|440     |      |                        |
+22/1/17|Algorithms            |[Graphs 0-1][4]                          |Medium       |90      |      |                        |
 
 [1]: https://www.hackerrank.com/domains/algorithms/warmup
 [2]: https://www.hackerrank.com/domains/algorithms/implementation/page:1
 [3]: https://www.hackerrank.com/domains/algorithms/arrays-and-sorting/page:1
+[4]: https://www.hackerrank.com/domains/algorithms/graph-theory/page:1
