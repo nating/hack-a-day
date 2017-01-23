@@ -1,4 +1,4 @@
-# routine-routines
+# hack-a-day
 A repo for keeping track of problems @merchantMarkMurtagh and I complete on our challenge-a-day...  ...challenge!
 
 ## Problems
