@@ -10,6 +10,7 @@ Date   |Track                 |Problem Name                             |Difficu
 20/1/17|Algorithms            |[Sorting 0-3][3]                         |Easy         |120     | 0.20 |                        |
 21/1/17|Algorithms            |[Sorting 4-13][3]                        |Easy-Advanced|440     |      |                        |
 22/1/17|Algorithms            |[Graphs 0-1][4]                          |Medium       |90      |      |                        |
+23/1/17|Algorithms            |[Implementation 7-9][2]                  |Easy         |40      |      |                        |
 
 [1]: https://www.hackerrank.com/domains/algorithms/warmup
 [2]: https://www.hackerrank.com/domains/algorithms/implementation/page:1
